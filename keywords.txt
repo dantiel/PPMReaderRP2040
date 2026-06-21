@@ -1,0 +1,20 @@
+# PPMReaderRP2040 keywords
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PPMReader	KEYWORD1
+
+#######################################
+# Methods and functions (KEYWORD2)
+#######################################
+onConnect	KEYWORD2
+onDisconnect	KEYWORD2
+onNewData	KEYWORD2
+rawChannelValue	KEYWORD2
+latestValidChannelValue	KEYWORD2
+loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

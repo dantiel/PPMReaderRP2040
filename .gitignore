@@ -1,0 +1,9 @@
+# Arduino build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.a
+build/
+__pycache__/
